@@ -1,0 +1,51 @@
+Project Title:
+Netflix Data Analysis Dashboard
+
+Project Description:
+This project focuses on analyzing Netflix's content library and user preferences using Power BI. The objective is to uncover insights about Netflix's global catalog, genre trends, user engagement, and content performance to support data-driven decision-making.
+
+Key Objectives:
+Analyze the distribution of content by type (Movies vs. TV Shows), genres, and release years.
+Identify trending genres and popular content categories in specific regions.
+Examine content addition trends over the years.
+Explore user engagement patterns, such as the most-watched genres, top-rated content, and viewing habits.
+Provide actionable insights for content strategy and expansion.
+Data Sources:
+Netflix dataset containing information about:
+Titles, genres, release years, and countries of production.
+Ratings, runtime, and description.
+Viewer preferences and user ratings (if available).
+External datasets for regional demographics or market trends (optional).
+Power BI Features Used:
+Data Cleaning:
+Used Power Query to clean and transform raw Netflix data (e.g., handling missing values, splitting columns like genres).
+Data Modeling:
+Created relationships between tables to connect genres, countries, and titles.
+Added calculated columns and measures for better analysis.
+Interactive Visualizations:
+Built visualizations such as:
+Bar and column charts for content distribution.
+Pie charts to compare genres or countries.
+Line charts to track content additions over time.
+Tree maps for genre popularity.
+Scatter plots for runtime vs. ratings.
+Added slicers for interactive filtering by year, genre, and region.
+Dashboards:
+Designed an interactive dashboard with KPIs like:
+Total Movies and TV Shows.
+Top Genres and Countries.
+Yearly Content Additions.
+Viewer Engagement Metrics.
+Key Insights Gained:
+The majority of Netflix's content library consists of [Insert Key Findings] (e.g., movies or TV shows).
+Popular genres include [Insert Findings] (e.g., drama, comedy).
+Most content is added in the [Insert Timeframe] (e.g., last 5 years).
+Certain regions, like [Insert Country/Region], favor specific genres.
+Tools Used:
+Power BI: For data visualization and dashboard creation.
+Excel/CSV Files: For initial data storage and preprocessing.
+DAX: For creating calculated columns and measures.
+Outcomes:
+Delivered an interactive dashboard to visualize key Netflix data trends.
+Provided actionable insights for content production and regional market expansion.
+Demonstrated Power BI's capability in handling large datasets and creating meaningful visualizations.
